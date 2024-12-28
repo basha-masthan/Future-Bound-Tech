@@ -173,6 +173,18 @@ body{
     color: #fff;
     font-size: 3rem;
 }
+.home p {
+    width: 15vw;
+    border-radius: 30px;
+    padding:10px 2rem ;
+    background-color: #e4e4e4;
+}
+.home p a{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #090909;
+    text-decoration: none;
+}
 
 .home .wave{
     position: absolute;
@@ -1153,6 +1165,14 @@ body{
         color: #fff;
         font-size: 2rem;
     }
+    .home p{
+        width: 30%;
+    }
+    .home p a{
+        color: #000000;
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
 
     .about{
         min-height: 38vh;
@@ -1364,3 +1384,5 @@ body{
             width: 100%;
         }
 }
+
+
