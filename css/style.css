@@ -211,6 +211,10 @@ body{
     opacity: .5;
 }
 
+#nellore{
+    font-size: 18px;
+}
+
 @media only screen and (max-width: 1000px) {
     #logo{
         width: 50%;
