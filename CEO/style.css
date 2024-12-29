@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1000px){
+    #name1 h1{
+        /* color: red; */
+        font-size: 27px;
+    }
+}
