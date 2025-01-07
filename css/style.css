@@ -1118,17 +1118,6 @@ body{
     }
 }        
 
-@media only screen and (min-width: 480px){
-    .header .logo img{
-        width: 50pc;
-        height: 4rem;
-        top: 0;
-        left: 0;
-        display: none;
-        background-size: cover;
-    }
-}
-
 
 @media (max-width: 1000px){
     html{
