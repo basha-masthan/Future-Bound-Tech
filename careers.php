@@ -1,4 +1,5 @@
 <?php   
+echo "<center><h1>PHP starts</h1></center>";
     require("./mailing/mailfunction.php");
 
     $name = $_POST["name"];
@@ -27,5 +28,6 @@
 	{
 		echo "<center><h1>Error uploading file! Please try again.</h1></center>";
 	}
+
 
 ?>
